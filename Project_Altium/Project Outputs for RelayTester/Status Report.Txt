@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RelayTester.PrjPcb]
+   Generated File[RelayTester-RoundHoles.TXT]
+   Generated File[RelayTester-SlotHoles.TXT]
+   Generated File[RelayTester.LDP]
+   Generated File[RelayTester.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:24:43 On 02.01.2019

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Home\Desktop\шнг\AltiumDesigner\RelayTester_v3formatted\RelayTester.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=relaytester-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=relaytester-slotholes.txt|DrillLayers=gtl,gbl

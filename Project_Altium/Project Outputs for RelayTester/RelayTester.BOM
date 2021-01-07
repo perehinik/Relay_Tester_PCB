@@ -1,0 +1,88 @@
+Bill of Material for 
+On 30.10.2018 at 16:57:40
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               C0603           23    C1, C2, C3, C4, C5, C6, C7   CAP CER 0.1UF 50V X7R 0603 
+                                           C10, C12, C13, C14, C17, C18
+                                           C19, C20, C21, C22, C24, C25
+                                           C26, C28, C30, C31
+ 0R                  R0603            1    R18                          RES SMD 0 OHM JUMPER 1/10W 0603 
+ 1000uF              CAP10x12         1    C11                          CAP ALUM 1000UF 20% 16V RADIAL 
+ 100k                R0603           33    R5, R9, R10, R26, R27, R28   RES SMD 100K OHM 5% 1/10W 0603 
+                                           R29, R40, R41, R42, R43, R44
+                                           R45, R46, R47, R48, R49, R50
+                                           R51, R56, R57, R58, R59, R68
+                                           R69, R70, R71, R77, R78, R83
+                                           R84, R85, R86
+ 100R                R0603            2    R8, R89                      RES SMD 100 OHM 5% 1/10W 0603 
+ 10k                 R0603           33    R2, R13, R14, R16, R20, R21  RES SMD 10K OHM 1% 1/10W 0603 
+                                           R31, R32, R33, R34, R60, R61
+                                           R72, R73, R80, R82, R90, R95
+                                           R96, R97, R98, R99, R100
+                                           R101, R102, R103, R104, R105
+                                           R106, R107, R108, R109, R110
+ 10R                 R1206            1    R111                         RES SMD 10 OHM 5% 1/4W 1206 
+ 120R                R0603            8    R88, R112, R113, R114, R115  RES SMD 120 OHM 5% 1/10W 0603 
+                                           R116, R117, R118
+ 1301.9503           SW_TACT_HOR      4    S1, S2, S3, S4               SWITCH TACTILE HOR SPST-NO 0.05A 12V 
+ 150R                R0603           18    R22, R23, R24, R25, R36, R37 RES SMD 150 OHM 5% 1/10W 0603 
+                                           R38, R39, R52, R53, R54, R55
+                                           R64, R65, R66, R67, R75, R76
+ 150R                RESISTOR_2W-2    1    R11                          RES THT 150 OHM 5% 2W 
+ 1602                DISPLAY1602      1    LCD1                         DISP 1602 THT        
+ 1k                  R0603            4    R1, R62, R81, R119           RES SMD 1K OHM 5% 1/10W 0603 
+ 1k                  R1206            4    R91, R92, R93, R94           RES SMD 1K OHM 5% 1/4W 1206 
+ 1k5                 R0603            1    R6                           RES SMD 1K5 OHM 5% 1/10W 0603 
+ 1N4148W             SOD323           8    D7, D8, D9, D10, D11, D12    DIODE GEN PURP 75V 150MA SOD323 
+                                           D13, D14
+ 1uF                 C0603            1    C32                          CAP CER 1UF 25V X7R 0603 
+ 20k 0.1%            R0603            1    R63                          RES SMD 20K OHM 0.1% 1/10W 0603 
+ 220R                R0603            1    R19                          RES SMD 220 OHM 5% 1/10W 0603 
+ 220uF               CAP10x12         1    C8                           CAP ALUM 220UF 20% 35V RADIAL 
+ 220uF               CAP6x11_Hor      1    C15                          CAP ALUM 220UF 20% 10V RADIAL 
+ 22R                 R0603            5    R3, R4, R7, R12, R87         RES SMD 22 OHM 1% 1/10W 0603 
+ 22uH                B82477G4         1    L3                           FIXED IND 22UH 5A 39 MOHM SMD 
+ 2k                  R0603            1    R79                          RES SMD 2K OHM 1% 1/10W 0603 
+ 2nF                 C0603            2    C23, C29                     CAP CER 2000PF 50V X7R 0603 
+ 3300uF              CAP12.5X20P      1    C16                          CAP ALUM 3300UF 20% 16V RADIAL 
+ 3k3                 R0603            2    R15, R17                     RES SMD 3.3K OHM 1% 1/10W 0603 
+ 4,7uF               1206(Tantal A)    2    C9, C27                      CAP TANT 4.7UF 10V 10% 1206 
+ 4.7R 50W            TO-220-2-hor     2    R30, R35                     RES 4.7 OHM 50W 5% AXIAL 
+ 470uH               B82477G4         1    L2                           FIXED IND 470UH 1A 741 MOHM SMD 
+ 510R                R0603            1    R74                          RES SMD 510 OHM 5% 1/10W 0603 
+ 74HC14              SSOP14           1    IC5                          IC INVERTER HEX SCHMITT 14SOIC 
+ 82uH                B82477G4         1    L4                           FIXED IND 82UH 1.2A SMD 
+ 8MHz                CSTCE_V          1    Q1                           CER RES 8.0000MHZ 33PF SMD 
+ ACS712 5A           SOIC_N           1    IC8                          SENSOR CURRENT HALL 5A AC/DC 
+ B260A-13-F          SMA              1    D6                           DIODE SCHOTTKY 2A 40V SMA 
+ BLM18               L0603            1    L1                           FERRITE BEAD 600 OHM 0603 1LN 
+ BSL207              SOT23-6 - MOSFET   17    T3, T4, T5, T6, T7, T8, T9   MOSFET P-CH 20V 6A 6TSOP 
+                                           T10, T11, T12, T13, T14, T15
+                                           T16, T17, T18, T19
+ BZT52C3V3           SOD123           1    D5                           Diode Zener Single 3.3V 6% 370mW 2-Pin SOD-123 T/R 
+ ES1J                SMA              2    D3, D4                       DIODE GEN PURP 600V 1A DO214AC 
+ Green LED           LED0805          1    LED1                         LED GREEN DIFFUSED 0805 SMD 
+ IDC10               PLD10-2          1    XT6                          DIL VERTICAL PC TAIL PIN HEADER 
+ IRFTS8342           SOT23-6 - MOSFET    2    T20, T21                     MOSFET N-CH 30V 8.2A 6TSOP 
+ IRLML2402           SOT-23          17    T2, T22, T23, T24, T25, T26  MOSFET N-CH 20V 1.2A SOT-23 
+                                           T27, T28, T29, T30, T31, T32
+                                           T33, T34, T35, T36, T37
+ L78L05ACU           SOT89-3          1    IC3                          IC REG LINEAR 5V 100MA SOT89-3 
+ LM321               SOT23-5          1    DA4                          IC OPAMP GP 1.3MHZ RRO SOT23-5 
+ LM358               SOIC_N           2    DA1, DA3                     Dual IC OPAMP GP 1.1MHZ 8SO 
+ M24C32              SOIC_N           1    IC4                          IC EEPROM 32KBIT 400KHZ 8SO 
+ MCP1416             SOT23-5          1    IC1                          IC MOSFET DVR 1.5A HS SOT23-5 
+ MIC4680-3.3BM       SOIC_N           1    IC2                          BUCK CONV 3.3V 1A    
+ PCF8574             SSOP-20N         1    IC6                          IC I/O EXPANDER I2C 8B 20TSSOP 
+ PLS-2               PLS-2            1    XT2                          SIL VERTICAL PC TAIL PIN HEADER 
+ PLS-26              PLS-26female     1    XT8                          SIL VERTICAL PC TAIL PIN HEADER 
+ PLS-32              PLS-32female     1    XT7                          SIL VERTICAL PC TAIL PIN HEADER 
+ PLS-4               PLS-4            1    XT10                         CONN HEADER 4POS .100 STR TIN 
+ PLS-6               PLS-6            1    XT9                          CONN HEADER 6POS .100 STR TIN 
+ PowerJack5,5/2,1mm  PowerJack5.5x2.1    1    XT3                          SIL VERTICAL PC TAIL PIN HEADER 
+ RelSocket           RelaySocket16Pin    2    XT4, XT5                     REL SOCKET UNI 7.62x2.54 PITCH 
+ SK54A-LTP           SMA              2    D1, D2                       DIODE SCHOTTKY 5A 40V SMA 
+ STM32F103RCT6       STM-LQFP64_V     1    U1                           IC MCU 32BIT 256KB FLASH 64LQFP 
+ STS11NF30L          SOIC_N           1    T1                           MOSFET N-CH 30V 11A 8-SOIC 
+ UX60-MB-5ST         MiniUSB          1    XT1                          CONN RECEPT MINI USB2.0 5POS 
